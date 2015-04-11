@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="title_activity_main">Ya reciclaste Hoy?</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="app_name">ReciclaMax</string>
+    <string name="action_settings">Configuración</string>
+    <string name="hello_world">Conserva el Medio Ambiente</string>
+    <string name="drawer_open">Slider Menu Abierto</string>
+    <string name="drawer_close">Slider Menu Cerrado</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Inicio</item>
+        <item >No Reciclable</item>
+        <item >Plastico</item>
+        <item >Papel</item>
+        <item >Ayuda</item>
+        <item>F</item>
+
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/verde</item>
+        <item>@drawable/blue</item>
+        <item>@drawable/beige</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>

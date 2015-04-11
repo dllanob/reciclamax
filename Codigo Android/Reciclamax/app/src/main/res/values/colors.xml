@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="fullc">#ffd8d8d8</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#ff449945</color>
+    <color name="list_divider">#ff747474</color>
+    <color name="counter_text_bg">#4F4F4F</color>
+    <color name="counter_text_color">#ff070c18</color>
+</resources>
