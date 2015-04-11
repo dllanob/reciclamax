@@ -17,3 +17,5 @@ Finalmente Reciclamax hace que cada actividad de reciclaje sea multimediamente d
 
 Quicklink
 https://www.flinto.com/p/da70d2f5
+
+En el anterior quicklink podemos observar el funcionamiento en general de la app,  la cual tiene 3 tipos de reciclaje para categorizar nuestro elemento. En el caso en el que no sepamos claramente en que tipo reciclar nuestro elemento podremos obtener una ayuda donde ingresaremos las principales características de éste, obteniendo así la respuesta adecuada para realizar el reciclaje. Después de seleccionar el tipo, podremos reciclarlo y de inmediato acceder a tomar una foto del elemento, la cual quedará en el registro de la aplicación. Esta nos permitirá ver cuantos elementos hemos reciclado en cada tipo y también nos ayudará a compartir nuestras estadísticas en las redes sociales.
